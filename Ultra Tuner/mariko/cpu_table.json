@@ -1,0 +1,27 @@
+[
+    {
+        "name": "自动",
+        "label": "Auto - 默认",
+        "hex": "00"
+    },
+    {
+        "name": "默认电表",
+        "label": "默认电表",
+        "hex": "01"
+    },
+    {
+        "name": "1581 MHz 断点",
+        "label": "1581 MHz 断点",
+        "hex": "02"
+    },
+    {
+        "name": "1683 MHz 断点",
+        "label": "1683 MHz 断点",
+        "hex": "04"
+    },
+    {
+        "name": "Helios 电表",
+        "label": "Helios 电表",
+        "hex": "05"
+    }
+]
